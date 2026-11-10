@@ -25,7 +25,7 @@ export function TempleDetailsSection({ id }) {
         {/* Feature Highlights Grid */}
         <div className="heritage-stats-grid">
           <div className="stat-card">
-            <span className="stat-number">156</span>
+            <span className="stat-number">157</span>
             <span className="stat-unit">Acres</span>
             <p className="stat-label">World’s Largest Functioning Temple Complex</p>
           </div>
